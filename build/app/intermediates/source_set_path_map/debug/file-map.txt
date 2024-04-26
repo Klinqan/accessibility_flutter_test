@@ -1,0 +1,12 @@
+com.example.accessibility_flutter_test.app-jetified-annotation-experimental-1.1.0-0 /Users/robinklingfors/.gradle/caches/transforms-3/031afe92e1ae55e0ebcd076fe3c5613b/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.accessibility_flutter_test.app-jetified-window-1.0.0-beta04-1 /Users/robinklingfors/.gradle/caches/transforms-3/3510997d2c419a8702b830c0b75c6d59/transformed/jetified-window-1.0.0-beta04/res
+com.example.accessibility_flutter_test.app-jetified-window-java-1.0.0-beta04-2 /Users/robinklingfors/.gradle/caches/transforms-3/b7023958d615ef047a652b59902995b6/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.accessibility_flutter_test.app-core-1.6.0-3 /Users/robinklingfors/.gradle/caches/transforms-3/b8527e1d87e949082b1cd32816a8999a/transformed/core-1.6.0/res
+com.example.accessibility_flutter_test.app-debug-4 /Users/robinklingfors/Documents/programing/testFlutter/accessibility_flutter_test/android/app/src/debug/res
+com.example.accessibility_flutter_test.app-main-5 /Users/robinklingfors/Documents/programing/testFlutter/accessibility_flutter_test/android/app/src/main/res
+com.example.accessibility_flutter_test.app-pngs-6 /Users/robinklingfors/Documents/programing/testFlutter/accessibility_flutter_test/build/app/generated/res/pngs/debug
+com.example.accessibility_flutter_test.app-resValues-7 /Users/robinklingfors/Documents/programing/testFlutter/accessibility_flutter_test/build/app/generated/res/resValues/debug
+com.example.accessibility_flutter_test.app-rs-8 /Users/robinklingfors/Documents/programing/testFlutter/accessibility_flutter_test/build/app/generated/res/rs/debug
+com.example.accessibility_flutter_test.app-mergeDebugResources-9 /Users/robinklingfors/Documents/programing/testFlutter/accessibility_flutter_test/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.accessibility_flutter_test.app-mergeDebugResources-10 /Users/robinklingfors/Documents/programing/testFlutter/accessibility_flutter_test/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.accessibility_flutter_test.app-merged_res-11 /Users/robinklingfors/Documents/programing/testFlutter/accessibility_flutter_test/build/app/intermediates/merged_res/debug
