@@ -1,0 +1,1 @@
+ /Users/robinklingfors/Documents/programing/testFlutter/accessibility_flutter_test/.dart_tool/flutter_build/24d6010c061b42c54a5af557df2db1c5/native_assets.yaml: 

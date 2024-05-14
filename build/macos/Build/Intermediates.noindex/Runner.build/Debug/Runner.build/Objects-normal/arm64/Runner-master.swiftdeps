@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "9ed1145d5b4c827eadcccfb66d632ce0002117d62e8caf09c4e6eff2168ba033"
+build_start_time: [1714124032, 960510015]
+build_end_time: [1714124042, 329969882]
+inputs:
+  "/Users/robinklingfors/Documents/programing/testFlutter/accessibility_flutter_test/macos/Flutter/GeneratedPluginRegistrant.swift": [1714124016, 597684860]
+  "/Users/robinklingfors/Documents/programing/testFlutter/accessibility_flutter_test/macos/Runner/AppDelegate.swift": [1701349100, 915513515]
+  "/Users/robinklingfors/Documents/programing/testFlutter/accessibility_flutter_test/macos/Runner/MainFlutterWindow.swift": [1701349100, 916540384]
