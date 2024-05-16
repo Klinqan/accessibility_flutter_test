@@ -45,7 +45,7 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/robinklingfors/Documents/programing/fandf/wallet_app_workshop/lib/flutter/packages/flutter",
+      "rootUri": "file:///Users/robinklingfors/fvm/versions/3.16.0/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -57,7 +57,7 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///Users/robinklingfors/Documents/programing/fandf/wallet_app_workshop/lib/flutter/packages/flutter_test",
+      "rootUri": "file:///Users/robinklingfors/fvm/versions/3.16.0/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -111,7 +111,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/robinklingfors/Documents/programing/fandf/wallet_app_workshop/lib/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///Users/robinklingfors/fvm/versions/3.16.0/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -170,10 +170,10 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-05-16T12:04:32.497779Z",
+  "generated": "2024-05-16T12:13:08.718010Z",
   "generator": "pub",
   "generatorVersion": "3.5.0-47.0.dev",
-  "flutterRoot": "file:///Users/robinklingfors/Documents/programing/fandf/wallet_app_workshop/lib/flutter",
+  "flutterRoot": "file:///Users/robinklingfors/fvm/versions/3.16.0",
   "flutterVersion": "3.22.0-8.0.pre.21",
   "pubCache": "file:///Users/robinklingfors/.pub-cache"
 }
