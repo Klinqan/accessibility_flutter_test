@@ -8,6 +8,20 @@ class ScenarioTwo extends StatefulWidget {
 }
 
 class _ScenarioTwoState extends State<ScenarioTwo> {
+  List<String> columnStrings = [
+    "Fruits and Vegetables",
+    "Whole Grains",
+    "Apples",
+    "Brown Rice",
+    "Spinach",
+    "Quinoa",
+    "Carrots",
+    "Oatmeal",
+    "Bananas",
+    "Whole Wheat Bread",
+    "Broccoli",
+    "Barley",
+  ];
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -17,18 +31,25 @@ class _ScenarioTwoState extends State<ScenarioTwo> {
             padding: const EdgeInsets.all(16.0),
             child: Column(
               children: [
-                const Padding(
-                  padding: EdgeInsets.symmetric(vertical: 32.0),
-                  child: Text(
-                      textAlign: TextAlign.center,
-                      "Make sure that the screen reader reads the whole left column first before reading the right column."),
+                const SizedBox(
+                  height: 128,
                 ),
-                for (var i = 0; i < 4; i++)
+                for (var i = 0; i < 11; i += 2)
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      Text("Left Column $i"),
-                      Text("Right Column $i"),
+                      Text(
+                        columnStrings[i],
+                        style: i == 0
+                            ? const TextStyle(fontWeight: FontWeight.bold)
+                            : null,
+                      ),
+                      Text(
+                        columnStrings[i + 1],
+                        style: i == 0
+                            ? const TextStyle(fontWeight: FontWeight.bold)
+                            : null,
+                      ),
                     ],
                   ),
               ],

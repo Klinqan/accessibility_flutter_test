@@ -29,7 +29,7 @@ class _ScenarioThreeState extends State<ScenarioThree> {
                 padding: EdgeInsets.symmetric(vertical: 32.0),
                 child: Text(
                     textAlign: TextAlign.center,
-                    "Some widgets can be hard to understand if users don't get the full picture. Make sure the screen reader reads relevant information in one go."),
+                    "Some widgets can be hard to understand if users don't get the full picture."),
               ),
               Card(
                   semanticContainer: false,

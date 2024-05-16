@@ -21,7 +21,7 @@ class _ScenarioOneState extends State<ScenarioOne> {
                   padding: EdgeInsets.symmetric(vertical: 32.0),
                   child: Text(
                       textAlign: TextAlign.center,
-                      "Make the screen reader skip this text and focus on the images. Also, add the necessary information for the user to understand the images."),
+                      "Make the screen reader skip this text"),
                 ),
                 Image.asset(
                   'assets/appshacklogo.png',
