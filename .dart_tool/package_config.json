@@ -167,10 +167,10 @@
       "name": "accessibility_flutter_test",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.5"
+      "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-05-15T13:59:37.694970Z",
+  "generated": "2024-05-16T12:04:32.497779Z",
   "generator": "pub",
   "generatorVersion": "3.5.0-47.0.dev",
   "flutterRoot": "file:///Users/robinklingfors/Documents/programing/fandf/wallet_app_workshop/lib/flutter",
