@@ -9,7 +9,7 @@ class ScenarioTwo extends StatefulWidget {
 
 class _ScenarioTwoState extends State<ScenarioTwo> {
   List<String> columnStrings = [
-    "Fruits and Vegetables",
+    "Fruits and Veggies",
     "Whole Grains",
     "Apples",
     "Brown Rice",
@@ -41,7 +41,8 @@ class _ScenarioTwoState extends State<ScenarioTwo> {
                       Text(
                         columnStrings[i],
                         style: i == 0
-                            ? const TextStyle(fontWeight: FontWeight.bold)
+                            ? const TextStyle(
+                                fontWeight: FontWeight.bold, fontSize: 16)
                             : null,
                       ),
                       Text(
