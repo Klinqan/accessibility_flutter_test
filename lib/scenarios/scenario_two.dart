@@ -42,13 +42,18 @@ class _ScenarioTwoState extends State<ScenarioTwo> {
                         columnStrings[i],
                         style: i == 0
                             ? const TextStyle(
-                                fontWeight: FontWeight.bold, fontSize: 16)
+                                fontWeight: FontWeight.bold,
+                                fontSize: 16,
+                                color: Colors.red)
                             : null,
                       ),
                       Text(
                         columnStrings[i + 1],
                         style: i == 0
-                            ? const TextStyle(fontWeight: FontWeight.bold)
+                            ? const TextStyle(
+                                fontWeight: FontWeight.bold,
+                                fontSize: 16,
+                                color: Colors.red)
                             : null,
                       ),
                     ],
